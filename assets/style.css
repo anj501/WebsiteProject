@@ -127,7 +127,7 @@ a:hover {
 }
 
 .hamburger-icon.open span:first-child {
-    transform: rotate(45 deg) translate(10px, 5px);
+    transform: rotate(45deg) translate(10px, 5px);
 }
 
 .hamburger-icon.open span:nth-child(2) {
@@ -135,7 +135,7 @@ a:hover {
 }
 
 .hamburger-icon.open span:last-child {
-    transform: rotate(-45 deg) translate(10px, -5px);
+    transform: rotate(-45deg) translate(10px, -5px);
 }
 
 .hamburger-icon span:first-child {
@@ -149,4 +149,6 @@ a:hover {
 .hamburger-icon span:first-child {
     transform: none;
 }
+
+/* SECTIONS */
 
