@@ -4,3 +4,5 @@ function toggleMenu() {
     menu.classList.toggle("open");
     icon.classList.toggle("open");
 }
+
+// Used @howtobecomeadevloper youtube videos as a resource
